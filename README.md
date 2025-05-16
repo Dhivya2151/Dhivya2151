@@ -11,7 +11,7 @@ I am passionate B.E-Computer Science and Enigneering graduate looking opportunit
 
 -  *📫 How to reach me:*
  
-     <a href="www.linkedin.com/in/dhivya-sekar-42b27228a">
+     <a href="https://www.linkedin.com/in/dhivya-sekar-42b27228a/">
      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="30">
 </a>
 
