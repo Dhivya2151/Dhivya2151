@@ -66,7 +66,7 @@ A robust system for managing customer accounts, transactions, and financial serv
   <img src="https://img.icons8.com/color/48/react-native.png" alt="reactjs" width="40" height="40"/>
 </a>
 <a href="https://microservices.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-microservices-devops-flaticons-lineal-color-flat-icons.png" alt="microservices" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/network.png" alt="microservices" width="40" height="40"/>
 </a>
 <a href="https://docs.spring.io/spring-security/reference/index.html" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/ios-filled/50/lock--v1.png" alt="spring-security" width="40" height="40"/>
