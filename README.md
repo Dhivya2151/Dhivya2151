@@ -83,6 +83,15 @@ A robust system for managing customer accounts, transactions, and financial serv
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/128/Eclipse.png" alt="Eclipse" width="40" height="40"/>
 </a>
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-apache-maven-a-software-project-management-and-comprehension-tool-logo-color-tal-revivo.png" alt="maven" width="40" height="40"/>
+</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/ios-glyphs/40/github.png" alt="github" width="40" height="40"/>
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman" width="40" height="40"/>
+</a>
 
 
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
