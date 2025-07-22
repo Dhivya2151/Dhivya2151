@@ -65,6 +65,15 @@ A robust system for managing customer accounts, transactions, and financial serv
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/react-native.png" alt="reactjs" width="40" height="40"/>
 </a>
+<a href="https://microservices.io/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/ios-filled/50/network.png" alt="microservices" width="40" height="40"/>
+</a>
+<a href="https://docs.spring.io/spring-security/reference/index.html" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/ios-filled/50/lock--v1.png" alt="spring-security" width="40" height="40"/>
+</a>
+<a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/ios/50/api.png" alt="rest-api" width="40" height="40"/>
+</a>
 </p>
 <h3 align="left">IDE and Tools I Use:</h3>
 <p align="left">
